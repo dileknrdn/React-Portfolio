@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Work Day Planner",
+      "imageSrc": "projects/project.png",
+      "description": "This project is a simple app that runs in the browser and features dynamically updated HTML and CSS powered by jQuery.",
+      "skills": ["Days.js", "jQuery", "HTML", "CSS", "JavaScript"],
+      "demo": "https://dileknrdn.github.io/work-day-planner/",
+      "source": "https://github.com/dileknrdn/work-day-planner"
+    },
+    {
+      "title": "The Weather App",
+      "imageSrc": "projects/project.png",
+      "description": "The Weather App is a functional app where you can see the five-day weather forecast for the city or town you plan to visit.",
+      "skills": ["API", "localStorage", "HTML", "CSS", "JavaScript"],
+      "demo": "https://dileknrdn.github.io/the-weather-app/",
+      "source": "https://github.com/dileknrdn/the-weather-app"
+    },
+    {
+      "title": "E-Business Backend",
+      "imageSrc": "projects/project.png",
+      "description": "This program allows for full CRUD functionality of a databse containing 3 tables, categories, products and tags, in the backend.",
+      "skills": ["MySQL", "JSON", "Express", "Node", "Sequelize"],
+      "demo": "https://drive.google.com/file/d/1GbhLoYjdek5AeGLUHck2LaP842ymFNZN/view",
+      "source": "https://github.com/dileknrdn/e-business-back-end"
+    },
+    {
+      "title": "Quotely",
+      "imageSrc": "projects/project.png",
+      "description": "Quotely is an interactive dynamical application that allows users to create, read, update, and delete quotes.",
+      "skills": ["MySQL", "Express", "Node"],
+      "demo": "https://quotely-22947f0a031d.herokuapp.com/",
+      "source": "https://github.com/dileknrdn/quotely"
+    }
+  ]

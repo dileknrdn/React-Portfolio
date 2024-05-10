@@ -3,6 +3,8 @@ import { Hero } from './components/Hero/Hero';
 import { Navbar } from './components/Navbar/Navbar';
 import { About } from './components/About/About';
 import { Skills } from './components/Skills/Skills';
+import { Projects } from './components/Projects/Projects';
+import { ProjectCard } from './components/Projects/ProjectCard'; 
 
 function App() {
   return  <div className={styles.App}> 
@@ -10,6 +12,7 @@ function App() {
   <Hero />  
   <About />
   <Skills /> 
+  <Projects /> 
   </div>;
 }
 
