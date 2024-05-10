@@ -1,6 +1,7 @@
 import React from "react";
 import styles from "./Contact.module.css";
 import { getImageUrl } from "../../utils";
+import Resume from "../../../assets/contact/Resume.pdf";
 
 export const Contact = () => {
     return <footer id="contact" className={styles.container}> 
@@ -20,6 +21,10 @@ export const Contact = () => {
             <li className={styles.link}>
                 <img src={getImageUrl("contact/githubIcon.png")} alt="GitHub icon" />
                 <a href="https://github.com/dileknrdn">GitHub</a>
+            </li>
+            <li className={styles.link}>
+                <img src={getImageUrl("contact/emailIcon.png")} alt="RESUME" />
+                <a href={ Resume }>RESUME</a>
             </li>
         </ul>
     </footer>;
