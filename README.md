@@ -14,23 +14,23 @@ This is a portfolio website built in React, showcasing the projects and skills I
 
 Home Page: 
 
-<img src="../React-Portfolio/assets/images/home-page.png">
+<img src="./assets/images/home-page.png">
 
 About Section: 
 
-<img src="../React-Portfolio/assets/images/about.png">
+<img src="./assets/images/about.png">
 
 Skills Section: 
 
-<img src="../React-Portfolio/assets/images/skills.png">
+<img src="./assets/images/skills.png">
 
 Projects Section: 
 
-<img src="../React-Portfolio/assets/images/projects.png">
+<img src="./assets/images/projects.png">
 
 Contact Section: 
 
-<img src="../React-Portfolio/assets/images/contact.png"> 
+<img src="./assets/images/contact.png"> 
 
 ## License 
 
@@ -46,4 +46,3 @@ Dilek Nuredin - GitHub https://github.com/dileknrdn
 
 If you have any additional questions, contact me: 
 dileknuredin@hotmail.com 
-
