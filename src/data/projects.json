@@ -27,8 +27,24 @@
       "title": "Quotely",
       "imageSrc": "projects/project.png",
       "description": "Quotely is an interactive dynamical application that allows users to create, read, update, and delete quotes.",
-      "skills": ["MySQL", "Express", "Node"],
+      "skills": ["MySQL", "Express", "Node", "Handlebars", "Sequelize", "JavaScript"],
       "demo": "https://quotely-22947f0a031d.herokuapp.com/",
       "source": "https://github.com/dileknrdn/quotely"
+    },
+    {
+      "title": "NoSQL-Social-Networking",
+      "imageSrc": "projects/project.png",
+      "description": "NoSQL Social Networking is a Node.js application programming interface (API) that allows users to perform CRUD operations on social networking data models using a NoSQL database.",
+      "skills": ["NoSQL", "Express", "Node", "MongoDB"],
+      "demo": "https://drive.google.com/file/d/1cE9Is57-0D5pUl59djD_GCEOmoLhFoL9/view",
+      "source": "https://github.com/dileknrdn/NoSQL-Social-Networking"
+    },
+    {
+      "title": "TASKR",
+      "imageSrc": "projects/project.png",
+      "description": "A full-stack task management application following MERN and CRUD structures and using a MongoDB database.",
+      "skills": ["Express", "Node", "MERN", "MongoDB", "React"],
+      "demo": "https://taskapp1-2b375c46f997.herokuapp.com/",
+      "source": "https://github.com/StrolineDigital/Taskr"
     }
   ]
